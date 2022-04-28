@@ -21,7 +21,7 @@ git pull origin main # traz do remoto para o local
 ![Git](imagens/git.png)
 
 ## Páginas
-[Scrum](srum.md)
+[Scrum](scrum.md)
 
 [Kanban](kanban.md)
 

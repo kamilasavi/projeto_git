@@ -28,4 +28,4 @@ git pull origin main # traz do remoto para o local
 [Comandos básicos de git](comandos_basicos.md)
 
 ## Fontes
-Documentação da linguagem [Marckdown] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?msclkid=e6765f16c67d11ec9e058ae3dc33e56c)
+Documentação da linguagem[Marckdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?msclkid=e6765f16c67d11ec9e058ae3dc33e56c)
